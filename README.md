@@ -35,6 +35,3 @@ This project analyzes retail sales data using Excel. The goal was to understand 
 🔹 Tools Used
 
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
